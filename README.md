@@ -1,5 +1,4 @@
 # React-TenAnswersGame
 
-https://github.com/SorayutChroenrit/TenAnswersGame.git
-
-https://sorayutchroenrit.github.io/TenAnswers/
+https://github.com/SorayutChroenrit/React-TenAnswer
+https://sorayutchroenrit.github.io/React-TenAnswer/
